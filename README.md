@@ -7,5 +7,6 @@ Aprendí
 * Uso de GitHub
 * El flujo de trabajo en GitHub
 * Creado por Ericsson
+* Incluye todos los ejemplos
 
 Recordatorio: **Este readme.md es un chiste**.
