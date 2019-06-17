@@ -6,5 +6,6 @@ Aprendí
 * Todos los comandos de git
 * Uso de GitHub
 * El flujo de trabajo en GitHub
+* Creado por Ericsson
 
 Recordatorio: **Este readme.md es un chiste**.
